@@ -1,4 +1,4 @@
-<h1>Age de l'Enfant<h1>
+<h1>Age de l'Enfant</h1>
 
         <?php
 
